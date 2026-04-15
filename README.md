@@ -8,9 +8,9 @@ Engenheiro de Dados | Aprendizado contínuo e apaixonado por transformar dados e
 ---
 
 ## 🌱 Sobre Mim
-- Aprendendo **SQL🗄️, Python🐍 e BigQuery☁️**  
+- Aprendendo **SQL🗄️, Python🐍**  
 - Explorando **ETL, pipelines e modelagem de dados 🔄**  
-- Conhecimentos em **Power BI 📊, Looker Studio 📈 e visualização de dados**  
+- Conhecimentos em **MySQL, BigQuery☁️, Power BI 📊, Looker Studio 📈 e visualização de dados**  
 - Noções de **DAX, Power Query (M), HTML/CSS e JavaScript básico**  
 - Motivado por **aprender, praticar e compartilhar conhecimento 💡**
 

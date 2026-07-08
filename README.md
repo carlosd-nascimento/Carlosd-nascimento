@@ -1,5 +1,4 @@
-# 👋 Olá! Eu sou Carlos Diego Barbosa do Nascimento
-
+# 👋 Olá! Eu sou Carlos Diego
 [<img src="https://img.shields.io/badge/carlosdiego--nascimento-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carlosdiego-nascimento)
 [<img src="https://img.shields.io/badge/carlosdiegocd@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](mailto:carlosdiegocd@gmail.com)
 

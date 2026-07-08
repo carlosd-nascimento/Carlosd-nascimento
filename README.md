@@ -61,6 +61,8 @@ Descobri minha paixão por Dados na faculdade e, com mais de um ano de experiên
 
 ### :computer: Projetos em destaque
 
-- [**bootcamp-ml**](https://github.com/carlosd-nascimento/bootcamp-ml) — Estudos e projetos práticos do Bootcamp de Machine Learning da Avanti Atlântico
-- [**genAI_dados**](https://github.com/carlosd-nascimento/genAI_dados) — Projetos do bootcamp GenIA & Dados
-- [**livraria-devsaber**](https://github.com/carlosd-nascimento/livraria-devsaber) — Modelagem de dados e SQL para o programa Desenvolve Koru & Grupo Boticário
+- 🪙 [**Crypto Market ETL Pipeline**](https://github.com/carlosd-nascimento/data-projects/tree/main/Meus_projetos/Pipeline_cripto) — Pipeline ETL completo: extração da API CoinGecko, transformação com Pandas e carga em MySQL, com 10+ análises SQL (rankings, subqueries, views)
+- 📚 [**Livraria DevSaber**](https://github.com/carlosd-nascimento/data-projects/tree/main/Desenvolve_GB_Koru/Mini_projeto_livraria_devsaber) — Modelagem de banco relacional (4 tabelas) e consultas analíticas em SQL, desenvolvido no BigQuery e refatorado para MySQL
+- 📊 [**Análise Exploratória de Vendas**](https://github.com/carlosd-nascimento/data-projects/tree/main/Desenvolve_GB_Koru/Mini_projeto_analise_de_dados) — EDA de uma base de vendas com Pandas, NumPy e Matplotlib, identificando produtos mais vendidos e tendências temporais
+- 🏠 [**Previsão de Preços de Imóveis (ML)**](https://github.com/carlosd-nascimento/data-projects/tree/main/Meus_projetos/ML) — Regressão Linear Múltipla para prever preços de imóveis, com EDA, mapa de correlação e avaliação do modelo (projeto acadêmico)
+> ⚡ Todos os projetos são parte do meu aprendizado contínuo e evoluem constantemente.

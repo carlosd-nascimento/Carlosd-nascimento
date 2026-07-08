@@ -1,58 +1,68 @@
-# 👋 Olá, eu sou Carlos Diego
+### Olá, bem vindo(a)!
 
-Engenheiro de Dados | Aprendizado contínuo e apaixonado por transformar dados em insights 🚀
+[<img src="https://img.shields.io/badge/carlosdiego--nascimento-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carlosdiego-nascimento)
+[<img src="https://img.shields.io/badge/carlosdiegocd@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](mailto:carlosdiegocd@gmail.com)
+[<img src="https://img.shields.io/badge/carlosd--nascimento-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/carlosd-nascimento)
 
-[![Email](https://img.shields.io/badge/Email-carlosdiegocd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosdiegocd@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Diego%20Nascimento-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosdiego-nascimento) 
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no IESB (previsão de formatura: 2026)
+- 🔭 Em transição de carreira, do suporte técnico de TI para **Engenharia de Dados**
+- 🌱 Certificado em **Python, SQL e Power BI**, com Jornada de Especialização em Engenharia de Dados (160h)
+- 💬 Aberto a trocar ideias sobre dados e boas práticas de engenharia
 
----
+### :bulb: Conheça mais sobre mim
 
-## 🌱 Sobre Mim
-- Aprendendo **SQL🗄️, Python🐍**  
-- Explorando **ETL, pipelines e modelagem de dados 🔄**  
-- Conhecimentos em **MySQL, BigQuery☁️, Power BI 📊, Looker Studio 📈 e visualização de dados**  
-- Noções de **DAX, Power Query (M), HTML/CSS e JavaScript básico**  
-- Motivado por **aprender, praticar e compartilhar conhecimento 💡**
+Descobri minha paixão por Dados na faculdade e, com mais de um ano de experiência em suporte técnico de TI, desenvolvi uma base sólida em resolução de problemas e comunicação técnica. Hoje aplico essa disciplina na transição para Dados, com Jornada de Especialização em Engenharia de Dados (160h) e certificações em Python, SQL e Power BI — sempre movido por pensamento analítico e vontade de transformar dados em decisões.
 
----
+### 🚀 Linguagens e Ferramentas:
 
-## 💻 Projetos
-- **🔄 Pipeline de Dados Simples** – Criação de ETL e fluxo de dados usando BigQuery  
-- **🤖 Automação com Python** – Scripts para limpeza e organização de dados
-- **📊 Análise de Dados** – Exploração e visualização de dados usando Python e Power BI   
+**💻 Uso diário**
 
-> ⚡ Todos os projetos são parte do meu aprendizado contínuo e evoluem constantemente.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+**🧬 Ciência de dados**
 
-## 🛠️ Habilidades
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-### Linguagens
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-0078D7?style=for-the-badge)
-<br>
-![M / Power Query](https://img.shields.io/badge/PowerQuery-68217A?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<br>
+**⚙️ Engenharia de dados & Cloud**
+
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**🌐 Desenvolvimento web & Automação**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
-### Ferramentas e Plataformas
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black) 
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white) 
-<br>
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) 
-<br>
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FF5F00?style=for-the-badge&logo=jupyter&logoColor=white) 
+**📊 Visualização & BI**
 
-### Conceitos
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+
+**🧩 Conceitos**
+
 ![ETL](https://img.shields.io/badge/ETL-6BA292?style=for-the-badge)
 ![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-0052CC?style=for-the-badge)
-![Pipelines](https://img.shields.io/badge/Pipelines-F2C811?style=for-the-badge)
-<br>
+![Pipelines](https://img.shields.io/badge/Pipelines-F2C811?style=for-the-badge&logoColor=black)
 ![Modelagem de Dados](https://img.shields.io/badge/Modelagem%20de%20Dados-4285F4?style=for-the-badge)
 
+### :computer: Projetos em destaque
+
+- [**bootcamp-ml**](https://github.com/carlosd-nascimento/bootcamp-ml) — Estudos e projetos práticos do Bootcamp de Machine Learning da Avanti Atlântico
+- [**genAI_dados**](https://github.com/carlosd-nascimento/genAI_dados) — Projetos do bootcamp GenIA & Dados
+- [**livraria-devsaber**](https://github.com/carlosd-nascimento/livraria-devsaber) — Modelagem de dados e SQL para o programa Desenvolve Koru & Grupo Boticário
+
+> ⚡ Todos os projetos são parte do meu aprendizado contínuo e evoluem constantemente.

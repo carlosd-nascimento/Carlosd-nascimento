@@ -54,31 +54,3 @@ Neste GitHub compartilho projetos desenvolvidos com bases de dados reais e cená
 ![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-0052CC?style=for-the-badge)
 ![Pipelines](https://img.shields.io/badge/Pipelines-F2C811?style=for-the-badge)
 ![Modelagem de Dados](https://img.shields.io/badge/Modelagem%20de%20Dados-4285F4?style=for-the-badge)
-
-## 💼 Projetos em destaque
-
-### 🪙 Crypto Market ETL Pipeline
-
-* Extração de dados via API CoinGecko
-* Transformação com Pandas
-* Carga em MySQL
-* Consultas SQL, Views e análises exploratórias
-
-### 📚 Livraria DevSaber
-
-* Modelagem de banco de dados relacional
-* Consultas analíticas em SQL
-* Desenvolvido no BigQuery e posteriormente adaptado para MySQL
-
-### 📊 Análise Exploratória de Vendas
-
-* Análise exploratória utilizando Pandas e NumPy
-* Visualizações para identificação de padrões e tendências
-
-### 🏠 Previsão de Preços de Imóveis
-
-* Regressão Linear Múltipla
-* Análise exploratória dos dados
-* Preparação dos dados e avaliação do modelo
-
-> 🚀 Estou constantemente desenvolvendo novos projetos para aprimorar minhas habilidades em Análise e Engenharia de Dados.

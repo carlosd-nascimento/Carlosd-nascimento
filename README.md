@@ -11,7 +11,7 @@
 
 ### :bulb: Conheça mais sobre mim
 
-Descobri minha paixão por Dados na faculdade e, com mais de um ano de experiência em suporte técnico de TI, desenvolvi uma base sólida em resolução de problemas e comunicação técnica. Hoje aplico essa disciplina na transição para Dados, com Jornada de Especialização em Engenharia de Dados (160h) e certificações em Python, SQL e Power BI — sempre movido por pensamento analítico e vontade de transformar dados em decisões.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em Análise e Engenharia de Dados. Desenvolvo projetos utilizando Python, SQL e PostgreSQL, aplicando processos de ETL, análise de dados e visualização com Power BI e Streamlit. Atualmente, estou construindo um portfólio com projetos baseados em problemas reais, buscando aplicar boas práticas de desenvolvimento, versionamento e documentação.
 
 ### 🚀 Linguagens e Ferramentas:
 

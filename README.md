@@ -2,11 +2,6 @@
 [<img src="https://img.shields.io/badge/carlosdiego--nascimento-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carlosdiego-nascimento)
 [<img src="https://img.shields.io/badge/carlosdiegocd@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](mailto:carlosdiegocd@gmail.com)
 
-* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **IESB** (conclusão prevista para 2026)
-* 🎯 Buscando minha primeira oportunidade como **Analista de Dados** ou **Engenheiro de Dados Júnior**
-* 🌱 Formação complementar em **Python, SQL, Power BI** e **Engenharia de Dados**, com foco em projetos práticos
-* 💬 Sempre aberto a aprender, compartilhar conhecimento e discutir boas práticas em Dados
-
 ## 💡 Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas com foco em **Análise e Engenharia de Dados**. Desenvolvo projetos utilizando **Python, SQL, PostgreSQL, Pandas, ETL, Power BI e Streamlit**, aplicando boas práticas de organização, documentação e versionamento.

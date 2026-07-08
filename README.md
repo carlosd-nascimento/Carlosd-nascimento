@@ -11,7 +11,7 @@
 
 ### :bulb: Conheça mais sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas com foco em Análise e Engenharia de Dados. Desenvolvo projetos utilizando Python, SQL e PostgreSQL, aplicando processos de ETL, análise de dados e visualização com Power BI e Streamlit. Atualmente, estou construindo um portfólio com projetos baseados em problemas reais, buscando aplicar boas práticas de desenvolvimento, versionamento e documentação.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em Análise e Engenharia de Dados. Desenvolvo projetos utilizando Python, SQL, PostgreSQL, ETL, Power BI e Streamlit, aplicando boas práticas de organização, documentação e versionamento. Neste GitHub compartilho projetos voltados à resolução de problemas reais, demonstrando minhas habilidades em coleta, transformação, análise e visualização de dados.
 
 ### 🚀 Linguagens e Ferramentas:
 

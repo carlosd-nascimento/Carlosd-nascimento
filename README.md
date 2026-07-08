@@ -64,5 +64,3 @@ Descobri minha paixão por Dados na faculdade e, com mais de um ano de experiên
 - [**bootcamp-ml**](https://github.com/carlosd-nascimento/bootcamp-ml) — Estudos e projetos práticos do Bootcamp de Machine Learning da Avanti Atlântico
 - [**genAI_dados**](https://github.com/carlosd-nascimento/genAI_dados) — Projetos do bootcamp GenIA & Dados
 - [**livraria-devsaber**](https://github.com/carlosd-nascimento/livraria-devsaber) — Modelagem de dados e SQL para o programa Desenvolve Koru & Grupo Boticário
-
-> ⚡ Todos os projetos são parte do meu aprendizado contínuo e evoluem constantemente.
